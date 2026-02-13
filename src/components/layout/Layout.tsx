@@ -2,11 +2,7 @@ import React from 'react';
 import { Navbar } from './Navbar';
 import { Typography } from '../ui/Typography';
 // Footer será adicionado em breve, por enquanto um placeholder simples
-const Footer = () => (
-    <footer className="border-t border-white/10 bg-black/50 py-12 text-center text-gray-500 text-sm mt-20">
 
-    </footer>
-);
 
 interface LayoutProps {
     children: React.ReactNode;

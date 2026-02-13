@@ -1,4 +1,3 @@
-import React from 'react';
 import { Typography } from '../components/ui/Typography';
 import { MethodCard } from '../components/ui/MethodCard';
 import { BookOpen, Users, Terminal, Award } from 'lucide-react';

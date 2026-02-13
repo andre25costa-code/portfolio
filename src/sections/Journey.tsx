@@ -1,4 +1,3 @@
-import React from 'react';
 import { Typography } from '../components/ui/Typography';
 import { JourneyCard } from '../components/ui/JourneyCard';
 import { motion } from 'framer-motion';

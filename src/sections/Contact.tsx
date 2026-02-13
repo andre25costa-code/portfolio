@@ -1,8 +1,7 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Typography } from '../components/ui/Typography';
 import { Button } from '../components/ui/Button';
-import { Mail, Linkedin, Github, ArrowUpRight, Globe } from 'lucide-react';
+import { Linkedin, Github, ArrowUpRight, Globe } from 'lucide-react';
 
 export const Contact = () => {
     return (

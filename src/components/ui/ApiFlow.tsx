@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { Database, Server, Cpu, LayoutDashboard } from 'lucide-react';
+import { Database, Cpu, LayoutDashboard } from 'lucide-react';
 
 export const ApiFlow = () => {
     return (
